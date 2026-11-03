@@ -1,2 +1,3 @@
-# ro-friends-entry
-Private invitation redirect for a local friends-only game. No game assets or plaintext invitations.
+# RO 好友世界固定入口
+
+免費的靜態導向頁。此專案不包含遊戲素材、帳密或明文私人邀請。live 分支只保存加密的動態入口資料。
